@@ -1,0 +1,1 @@
+insert into users_tbl(id, username, email, password) values(1, 'sachin', 'hello@myserver.com', '$2a$10$VWxaLIKWNvmSrSc6EwAShet8c8IOI8srDITrA3fJ0.p3grZuqVPxa')
