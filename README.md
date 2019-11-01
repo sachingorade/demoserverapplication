@@ -14,6 +14,7 @@ This application is built using,
 3. JDK 8
 4. Lombok
 5. Spring Security
+6. JPA
 
 ### Known issues
 1. This application does not have any test case as it was not written with TDD method :P
