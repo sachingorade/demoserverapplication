@@ -1,5 +1,6 @@
 package com.ts.tutorials.spring.demoserver.model;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
@@ -11,6 +12,7 @@ import javax.validation.constraints.PositiveOrZero;
 @Table(name = "products_tbl")
 @Data
 @NoArgsConstructor
+@AllArgsConstructor
 public class Product {
 
     public Product(Long id) {
